@@ -97,17 +97,3 @@
 - **证书领域绑定**：分公路/水运领域，跨领域须增考
 - **有效期与延续**：以交通运输部2024年2号令及各省规定为准
 
-## 同名题库别名
-
-- 交安C证（水运）
-- 交通运输施工单位安管人员C类
-- 水运工程专职安全员考核
-- 公路水运交安C证
-- 交安C证
-
-## 来源
-
-- http://jtysw.cq.gov.cn/zwgk_240/zfxxgkml/gggs/tzgg/202606/t20260605_15731189.html （重庆市交通委：考试通知）
-- https://ncx.nc.gov.cn/ncxrmzf/jtys/202407/41a42380464e4c25aeb3f9c50ca0b685/files/交通运输工程施工单位主要负责人、项目负责人和专职安全生产管理人员安全生产考试大纲.pdf （2024版大纲，含组卷比例）
-- http://jtyst.fujian.gov.cn/zwgk/zfxxgkzl/zfxxgkml/xgg/201610/P020180203637807977397.pdf （交通运输部：水运工程考核大纲，16章技术结构）
-- https://tk.shangxueba.com/zn/a2NwrtAS.html （上学吧：C证侧重解析）

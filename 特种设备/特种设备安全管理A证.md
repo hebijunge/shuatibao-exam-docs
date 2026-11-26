@@ -13,7 +13,7 @@
 - **报考条件**：18-60 周岁，初中及以上学历，可通过政务服务网报名直考，培训自愿。
 - **注意**：A 证是管理证，不能操作设备；考试不考设备动手操作。A 证复审时全国统一核实证书真伪。
 
-**本节来源**：
+**本节
 - https://www.samr.gov.cn/cms_files/filemanager/samr/www/samrnew/tzsbj/tzgg/zjwh/201905/P020190529635301774999.pdf
 - https://scjgj.chizhou.gov.cn/News/show/598720.html
 - https://m.gykcjy.com/h-nd-124271.html
@@ -81,7 +81,7 @@
 6. 事故现场保护、防止次生伤害、调查配合。
 7. 应急器材配置与故障上报流程。
 
-**本节来源**：
+**本节
 - https://m.gykcjy.com/h-nd-124271.html
 - https://m.gykcjy.com/h-nd-120861.html
 - https://www.gykcjy.com/h-nd-121541.html
@@ -104,7 +104,7 @@
 12. （中频）应急预案演练频次、演练记录保存。
 13. （低频）安全管理员职责中"组织制定操作规程""组织安全教育培训"等表述判断。
 
-**本节来源**：
+**本节
 - https://m.gykcjy.com/h-nd-124271.html
 - https://www.gykcjy.com/h-nd-121541.html
 - https://m.gykcjy.com/h-nd-126719.html
@@ -123,7 +123,7 @@
 - 答完不轻易改第一感觉的答案。
 - 通用复习法：先搭框架（法规红线、设备结构、操作流程、事故处置四类）；数字归类法（检验周期、复审年限列表）；场景联想法；错题反推法（写错因一周回看）。
 
-**本节来源**：
+**本节
 - http://mp.weixin.qq.com/s?__biz=MzcwMTQyMjU2MA==&mid=2247483706&idx=1&sn=d4b83da684d7818f1f94146b92fac82f
 - https://www.xuekaocn.cn/v/1/256968.aspx
 - https://www.xuekaocn.cn/v/1/276525.aspx
@@ -137,7 +137,7 @@
 - **备考优先级**：法规 > 应急 > 使用管理 > 基础知识；吃透法规条款、设备管理台账、定期检验、事故上报四大块是拿分关键。
 - 暂未找到公开的 A 证官方教材章节目录，可后续补充。
 
-**本节来源**：
+**本节
 - https://www.samr.gov.cn/cms_files/filemanager/samr/www/samrnew/tzsbj/tzgg/zjwh/201905/P020190529635301774999.pdf
 - https://m.gykcjy.com/h-nd-124271.html
 
@@ -149,19 +149,3 @@
 - **有效期与复审**：证书有效期 **4 年**；届满前 1 个月（建议提前 2~3 个月）向工作地或户籍地发证机关申请复审，提交《资格复审申请表》+ 证书原件；复审条件：年龄 ≤65 周岁、持证期间无违章作业和责任事故、持证项目作业中断未超 1 年；复审 10 个工作日内办结。
 - **逾期未复审**：证书失效，继续从事安全管理须重新申请取证。
 
-## 同名题库别名
-
-- 特种设备安全管理A证
-- 特种设备相关管理A
-
-## 来源（汇总）
-
-1. 《特种设备作业人员考核规则》TSG Z6001-2019 —— https://www.samr.gov.cn/cms_files/filemanager/samr/www/samrnew/tzsbj/tzgg/zjwh/201905/P020190529635301774999.pdf
-2. 池州市市场监管局考试项目通知 —— https://scjgj.chizhou.gov.cn/News/show/598720.html
-3. 特种设备安全管理A证考试题库（快程教育）—— https://m.gykcjy.com/h-nd-124271.html
-4. 达州A证考什么 —— https://m.gykcjy.com/h-nd-120861.html
-5. 广安A证考什么 —— https://www.gykcjy.com/h-nd-121541.html
-6. 德阳A证理论考什么 —— https://m.gykcjy.com/h-nd-126719.html
-7. 四川特业A证解析 —— http://www.scteye.com/detail.html?article_id=896
-8. 特种设备考试答题技巧（微信公众号）—— http://mp.weixin.qq.com/s?__biz=MzcwMTQyMjU2MA==&mid=2247483706&idx=1&sn=d4b83da684d7818f1f94146b92fac82f
-9. 学课在线备考方法 —— https://www.xuekaocn.cn/v/1/256968.aspx 、https://www.xuekaocn.cn/v/1/276525.aspx 、https://xuekaocn.cn/v/1/247851.aspx
