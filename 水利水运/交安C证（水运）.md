@@ -137,7 +137,7 @@
 - **练习平台**：各省交通运输安管人员考核管理系统（如重庆 [cq.safetyams.cn ↗](http://cq.safetyams.cn/)）。
 - **题库**：上学吧、优题宝等交安 C 证（水运）专项题库，选 2024 版新大纲题库。
 - **备考计划**：第 1 阶段通读大纲、建立"8-25-25-42"框架；第 2 阶段按用电→高处→水上→机械→特殊季节分块攻坚参数；第 3 阶段限时模拟、案例题三步法训练。
-- **可下载PDF**：《交通运输工程施工单位安管人员安全生产考试大纲（2024版）》[本地下载 ↗](https://raw.githubusercontent.com/hebijunge/shuatibao-exam-docs/main/_pdf/水利水运/交安A证（水运）_0ef5fe.pdf)；[官方原文PDF ↗](https://ncx.nc.gov.cn/ncxrmzf/jtys/202407/41a42380464e4c25aeb3f9c50ca0b685/files/4e863b41d738430e9ee8512b560936b1.pdf)。
+- **可下载PDF**：《交通运输工程施工单位安管人员安全生产考试大纲（2024版）》；[官方原文PDF ↗](https://ncx.nc.gov.cn/ncxrmzf/jtys/202407/41a42380464e4c25aeb3f9c50ca0b685/files/4e863b41d738430e9ee8512b560936b1.pdf)。
 
 ## 成绩与证书
 

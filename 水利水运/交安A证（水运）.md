@@ -141,7 +141,7 @@
 - **备考计划**：第 1 阶段通读大纲与法规原文，建立"8-45-35-12"分值框架；第 2 阶段按法规→管理→技术顺序刷题并整理数字表；第 3 阶段限时模拟，案例题按三步法训练。
 - **免费资源**：部省级交通运输主管部门官网政策解读、地方交通局发布的考试大纲解读与样题。
 
-- **可下载PDF**：《交通运输工程施工单位安管人员安全生产考试大纲（2024版）》[本地下载 ↗](https://raw.githubusercontent.com/hebijunge/shuatibao-exam-docs/main/_pdf/水利水运/交安A证（水运）_0ef5fe.pdf)；[官方原文PDF ↗](https://ncx.nc.gov.cn/ncxrmzf/jtys/202407/41a42380464e4c25aeb3f9c50ca0b685/files/4e863b41d738430e9ee8512b560936b1.pdf)。
+- **可下载PDF**：《交通运输工程施工单位安管人员安全生产考试大纲（2024版）》；[官方原文PDF ↗](https://ncx.nc.gov.cn/ncxrmzf/jtys/202407/41a42380464e4c25aeb3f9c50ca0b685/files/4e863b41d738430e9ee8512b560936b1.pdf)。
 
 ## 成绩与证书
 
@@ -289,12 +289,6 @@
 范》（JGJ 80）、《龙门架及井架物料提升机安全技术规范》（JGJ88）、《建筑施工扣件式钢管脚手架安全技术规范》（JGJ 130）、
 《建筑拆除工程安全技术规范》（JGJ 147）、《建筑施工模板安全技术规范》（JGJ 162）、
 《建筑施工碗扣式钢管脚手架安全技术规范》（J
-
-（节选，完整版见 PDF 原文链接）
-
-[PDF 原文 ↗](https://raw.githubusercontent.com/hebijunge/shuatibao-exam-docs/main/_pdf/水利水运/交安A证（水运）_0ef5fe.pdf)
-
-
 
 ## 官方教材与大纲原文（百度文库）
 
